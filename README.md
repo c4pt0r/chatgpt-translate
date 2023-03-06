@@ -1,0 +1,2 @@
+# chatgpt-translate
+chatgpt-translate
